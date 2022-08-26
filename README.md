@@ -4,4 +4,4 @@
 - mail：koretaka@ai.cs.ehime-u.ac.jp
 
 ## 資格
-- SIGNATE Expert 
+- SIGNATE Expert [プロフィール](https://signate.jp/users/80728)
