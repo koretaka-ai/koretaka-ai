@@ -1,9 +1,17 @@
 ## プロフィール
-- 名前：惟高日向
-- 所属：愛媛大学 工学部 工学科 人工知能研究室
-- mail：koretaka@ai.cs.ehime-u.ac.jp
+- 名前：惟高日向（Koretaka Hyuga）
+- 学年：M1
+- 所属：愛媛大学大学院 人工知能研究室 自然言語処理グループ
+- 研究分野：機械翻訳
+- メール：koretaka@ai.cs.ehime-u.ac.jp
 
-## 研究業績
+## 国際会議
+- Hyuga Koretaka, Tomoyuki Kajiwara, Atsushi Fujita, Takashi Ninomiya. <br>
+  Mitigating Domain Mismatch in Machine Translation via Paraphrasing. <br>
+  In Proceedings of the 10th Workshop on Asian Translation (WAT 2023), pp.xxx-xxx, <br>
+  Macau SAR, China, September 2023. (to appear)
+  
+## 国内会議
 - 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
   専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
   NLP若手の会第18回シンポジウム(YANS2023), S1-P10, August 2023.
@@ -25,7 +33,7 @@
   NLP若手の会第17回シンポジウム(YANS2022), P3-13, August 2022.
 
 ## 受賞
-- NLP若手の会第18回シンポジウム(YANS2023) 奨励賞
+- NLP若手の会第18回シンポジウム(YANS2023) 第一著者奨励賞
   > 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
     専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
     NLP若手の会第18回シンポジウム(YANS2023), S1-P10, August 2023. <br>
