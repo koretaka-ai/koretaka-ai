@@ -13,8 +13,8 @@
 ### 国際会議
 - Hyuga Koretaka, Tomoyuki Kajiwara, Atsushi Fujita, Takashi Ninomiya. <br>
   Mitigating Domain Mismatch in Machine Translation via Paraphrasing. <br>
-  In Proceedings of the 10th Workshop on Asian Translation (WAT 2023), pp.xxx-xxx, <br>
-  Macau SAR, China, September 2023. (to appear)
+  In Proceedings of the 10th Workshop on Asian Translation ([WAT 2023](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2023/)), pp.29-40, <br>
+  Macau SAR, China, September 2023. \[[PDF](https://aclanthology.org/2023.wat-1.2/)\]
   
 ### 国内会議
 - 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
