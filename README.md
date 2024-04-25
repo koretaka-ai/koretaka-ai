@@ -1,17 +1,22 @@
 ## プロフィール
 - 名前：惟高日向（Koretaka Hyuga）
-- 学年：M1
-- 所属：愛媛大学大学院 人工知能研究室 自然言語処理グループ
-- 研究分野：機械翻訳
+- 学年：M2
+- 所属：愛媛大学大学院 理工学研究科 理工学専攻 [人工知能研究室](https://sites.google.com/view/ehime-nlp/)
+- 研究分野：自然言語処理: 機械翻訳
 - メール：koretaka@ai.cs.ehime-u.ac.jp
 
-## 国際会議
+## 研究業績
+### 論文誌
+- 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, 西脇靖紘. <br>
+  MATCHA：専門家が平易化した記事を用いたやさしい日本語パラレルコーパス. <br>
+  自然言語処理, Vol.31, No.2, June 2024. (掲載予定) \[[DATA](https://github.com/miyatarina/matcha)\]
+### 国際会議
 - Hyuga Koretaka, Tomoyuki Kajiwara, Atsushi Fujita, Takashi Ninomiya. <br>
   Mitigating Domain Mismatch in Machine Translation via Paraphrasing. <br>
   In Proceedings of the 10th Workshop on Asian Translation (WAT 2023), pp.xxx-xxx, <br>
   Macau SAR, China, September 2023. (to appear)
   
-## 国内会議
+### 国内会議
 - 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
   専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
   NLP若手の会第18回シンポジウム(YANS2023), S1-P10, August 2023.
@@ -42,6 +47,10 @@
   > 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
     専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
     NLP若手の会第18回シンポジウム(YANS2023), S1-P10, August 2023. <br>
+
+## インターンシップ
+- 国立研究開発法人情報通信研究機構 (2024/05/01から2025/03/31)
+- 国立研究開発法人情報通信研究機構 (2023/08/01から2024/03/31)
 
 ## 資格
 - SIGNATE Expert [プロフィール](https://signate.jp/users/80728)
