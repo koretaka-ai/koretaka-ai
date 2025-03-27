@@ -1,9 +1,5 @@
 ## プロフィール
 - 名前：惟高日向（Koretaka Hyuga）
-- 学年：M2
-- 所属：愛媛大学大学院 理工学研究科 理工学専攻 [人工知能研究室](https://sites.google.com/view/ehime-nlp/)
-- 研究分野：自然言語処理: 機械翻訳
-- メール：koretaka@ai.cs.ehime-u.ac.jp
 
 ## 研究業績
 ### 論文誌
